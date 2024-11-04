@@ -190,6 +190,10 @@ nav li a:hover{
      border-radius: 10px;
      width: 400px;
   }
+  section a{
+   background-color: white;
+   border-radius: 10px;
+  }
   article img{
      width: 100%;
      height: auto;
@@ -203,6 +207,9 @@ nav li a:hover{
      gap: 20px;
      border-radius: 10px;
   }
+
+
+
 
 
 
