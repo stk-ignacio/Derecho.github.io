@@ -116,7 +116,7 @@ nav ul{
    grid-template-columns: auto auto auto auto auto auto;
    gap: 20px;
    list-style: none;
-   font-size: 20px;
+   font-size: 17px;
 }
 .nombre-pagina{
  align-items: center;
@@ -212,6 +212,7 @@ iframe{
 }
 article ul{
     list-style: none;
+    margin: 20px;
 }
 article ul li{
     margin: 5px;
@@ -246,7 +247,7 @@ nav ul{
    grid-template-rows: auto auto;
    gap: 15px;
    list-style: none;
-   font-size: 10px;
+   font-size: 11px;
    width: 200px;
 }
 .nombre-pagina{
@@ -278,7 +279,7 @@ nav li a:hover{
   background-color: lightblue;
   color: black;
   border-radius: 15px;
-  padding: 10px 5px;
+  padding: 5px 5px 5px 5px;
 }
 
 

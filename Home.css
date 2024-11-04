@@ -114,7 +114,7 @@ nav ul{
    grid-template-columns: auto auto auto auto auto auto;
    gap: 20px;
    list-style: none;
-   font-size: 20px;
+   font-size: 17px;
 }
 .nombre-pagina{
  align-items: center;
@@ -273,7 +273,7 @@ nav li a:hover{
   background-color: lightblue;
   color: black;
   border-radius: 15px;
-  padding: 10px 5px;
+  padding: 5px 5px 5px 5px;
 }
 
 
@@ -384,3 +384,14 @@ footer p{
 }
 
 
+@media screen and(max-width:1366px){
+   nav ul{
+      display: grid;
+      grid-template-columns: auto auto auto;
+      grid-template-rows: auto auto;
+      gap: 15px;
+      list-style: none;
+      font-size: 7px;
+      width: 200px;
+   }
+}
